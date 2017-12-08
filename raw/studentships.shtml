@@ -1,0 +1,93 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title>Centre for Doctoral Training in Data Intensive Science PhD Studentship</title>
+<!--#include virtual="/styles.shtml" -->
+
+<META http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+
+</head>
+
+<body>
+
+<div class=container>
+<!--#include virtual="/cdt-dis/top.shtml" -->
+<div class=middle>
+<!--#include virtual="/cdt-dis/left.shtml" -->
+<div class=content>
+
+<div class=body>
+
+<div class=bodytext>
+
+<h1>PhD Studentships at UCL's Centre for Doctoral Training in Data Intensive Science in Astrophysics or High Energy Physics</h1>
+
+<h2>Overview</h2>
+
+<p>
+We are pleased to announce that we will have at least 10 PhD studentships (for UK/EU applicants only)
+available for the academic year 2018/2019.
+</p>
+
+<p>
+The deadline for applications for admission in 2018 for UK/EU students will be 25 January 2018. The applications are now open and a link to the online forms is available <a href="http://www.ucl.ac.uk/prospective-students/graduate/research/degrees/physics-astronomy-mphil-phd">here</a>. There is no need to write a research project, despite what the generic UCL application form states. Instead what we need is a short personal statement describing your reasons for applying for a DIS PhD, any relevant experience, achievements, awards and publications you may have and which of our research areas interests you most. In addition you can also upload a short CV (2 pages), which highlights key points about your University education, MSci project (or similar), career/placements, your computing experience and any other details on your technical/experimental experience which is relevent. We will be considering all applications received and will invite a shortlist to interview in mid-February 2018.
+</p>
+
+<p>
+PhD admissions inquiries can be addressed to PhD Admission Tutor, <a href="serena.viti@ucl.ac.uk">Prof Serena Viti</a>. However it's likely that many questions will be answered in these pages so please read through before contacting us.
+</p>
+
+
+<h2>Eligibility</h2>
+
+<p>
+We will automatically consider UK/EU candidates for an appropriate studentship when you apply to us by 25 January 2018.
+</p>
+
+<p>
+If you are from the UK, or from the EU and meet residency requirements (settled status, or 3 years full-time residency in the UK), you are eligible for a studentship provided by the Science & Technology Facilities Council (STFC). This pays UK/EU tuition fees and a maintenance (i.e. subsistence) allowance. More details on the studentships, including their value, can be found <a href="http://www.stfc.ac.uk/funding/studentships/industrial-case-studentships/payments/">here</a>. Applicants meeting the relevant criteria are automatically considered for a studentship and do not need to apply for a studentship separately.
+</p>
+
+<p>
+Applicants whose first language is not English should note the additional requirements in respect of this. Please note that unless you satisfy the requirements mentioned above the department cannot offer you a PhD position (i.e. we are not allowed to make exceptions). We strongly advise that you check whether you meet the requirements, and take any necessary tests such as the IELTS, before making an application; or, if this is not possible, no later than the date of interviews.
+</p>
+
+<h2>Projects</h2>
+
+<p>
+We do not assign projects at the time of the offer. However, to get a flavour of the type of projects on offer, have a look at the list of projects assigned to the current cohort of DIS students <a href="/cdt-dis/studentprojects.shtml">here</a>. You can also see the profiles of the currents students enrolled in the Centre <a href="/cdt-dis/studentprofiles.shtml">here</a>.
+</p>
+
+<p>
+In the application you should ensure you apply for the CDT DIS stream, but clearly state n your research statement whether you are interested in a DIS project in Astrophysics and/or High Energy Physics. You will be able to express an interest in a particular area.
+</p>
+
+<p> Applicants interested in a wider range of non-CDT based research projects in the both the High Energy Physics and Astrophysics groups, need to also apply directly to the respective groups for consideration. Further details on dedicated studentships can be found <a href="http://www.hep.ucl.ac.uk/postgrad/index.shtml">here</a> for the High Energy Physics group, <a href="https://www.ucl.ac.uk/star/phd">here</a> for the Astrophysics group and <a href="http://www.ucl.ac.uk/mssl/research-degrees">here</a> for the MSSL group.
+
+<figure class="centred">
+<img src="dis_experiments.png" class="scaled">
+<figcaption class="lefttext"> The 17 inaugural research projects cover a wide and diverse range of DIS research areas, providing both an excellent training ground and ideal use-cases for the development/application of new DIS techniques, which will enhance our ground-breaking fundamental research. </figcaption>
+</figure>
+
+<!--
+<figure class="centred">
+<img src="lsst.jpg" class="scaled">
+<figcaption class="lefttext"> The Large Synoptic Survey Telescope will produce the deepest and widest image of the Universe ever taken. The 3200 megapixel camera will produce 15 Terabytes of data every night during the 10 year survey of the night sky, mapping over 37 billion stars and galaxies. The colossal amount of data that will be produced, and the novel techniques required to cope with such data flows, place such experiments at the cutting edge of the DIS field.</figcaption>
+</figure>
+-->
+
+</div>
+
+</div>
+
+</div>
+</div>
+
+<!--#include virtual="/footer.php" -->
+
+</div>
+
+</body>
+
+</html>

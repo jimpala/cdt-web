@@ -1,0 +1,149 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title>Centre for Doctoral Training in Data Intensive Science PhD Studentship</title>
+<!--#include virtual="/styles.shtml" -->
+
+<META http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+
+<style>
+	.studentList {
+
+		list-style:none;
+		margin:0;
+		padding:0;
+
+	}
+
+	.studentList li {
+
+		border-bottom:1px dotted #568bbf;
+		padding:0 0 22px;
+		margin:0 0 22px;
+		overflow:auto;
+
+	}
+
+	.studentList .image {
+
+		float:left;
+		width:auto;
+
+	}
+
+	.studentList .text {
+
+		margin-left:0px;
+
+	}
+
+</style>
+
+
+</head>
+
+<body>
+
+<div class=container>
+<!--#include virtual="/cdt-dis/top.shtml" -->
+<div class=middle>
+<!--#include virtual="/cdt-dis/left.shtml" -->
+<div class=content>
+
+<div class=body>
+
+<div class=bodytext>
+
+<h1>Students at UCL's Centre for Doctoral Training in Data Intensive Science</h1>
+
+<ul class="studentList">
+	<li>
+	<div class="text">            
+		<h3><a href="">Tarek Allam</a> - 1st year PhD</h3>
+		<p>I graduated with an MSci Astrophysics from Royal Holloway, University of London. Whist at Royal Holloway I took part in a summer research project at the John Adams Institute for Accelerator Science, which exposed me to the world of scientific computing for research. As it has always been my ambition to embark into a research career, I chose to develop my scientific computing skills further by completing a post-graduate masters in Computer Science at UCL. My major project for the MSc allowed me to combine my two passions of Astrophysics and Machine Learning by applying Deep Learning methods to the inverse problem of radio interferometric image reconstruction. I believe the interdisciplinary nature of the CDT provides a unique opportunity to develop as a professional researcher in the fields of Computer Science, Machine Learning and Physics that will be able to solve large-scale problems in both academia and industry.</p>
+	</div>
+	</li>
+	<li>
+	<div class="text">            
+		<h3><a href="">Greg Barbour</a> - 1st year PhD</h3>
+		<p>I graduated from Cambridge University with an MSci in Natural Sciences where I achieved first class honours. For my masters thesis, I completed a theoretical analysis on the potential of probing spin ice materials with laboratory magnetic fields. This ultra-cold material is of particular interest to physicists as its dynamics are quite exotic, in fact they are modelled by electromagnetism with magnetic monopoles. The CDT in data intensive science appealed to me as it could allow me to continue researching in Physics and gain experience of working in industry, all the while learning about new and valuable computing techniques.</p>
+	</div>
+	</li>
+	<li>
+	<div class="text">            
+		<h3><a href="">Lucas Borgna</a> - 1st year PhD</h3>
+		<p>During my master’s degree at UCL, I had the opportunity to employ advanced machine learning methods to detect the decay of a fundamental particle using an image based classifier approach. Prior to this, I was introduced to machine learning algorithms during an internship at a synchrotron radiation facility. Whilst there, we developed a genetic algorithm to automatically optimise complex instrumentation. This innovative method could find the global optimum far more accurately than any individual could in a fraction of the time. This work led to several publications and has been implemented in other similar research facilities worldwide. My appreciation for data-intensive sciences was further strengthened during my technical studentship at CERN, where mission critical decisions were driven by sophisticated data analytics on a daily basis. Being part of the CDT scheme is very unique experience as it bridges many different practices united by the common field of data science. This will enrich the vital research carried out in particle physics and enhance applications in data intensive fields.</p>
+	</div>
+	</li>	<li>
+	<div class="text">            
+		<h3><a href="">Damien De Mijolla</a> - 1st year PhD</h3>
+		<p>I graduated from Imperial College London with a first class honors physics MSci. For my final year project, I contributed towards developing a, now published, fast covariance matrix estimation algorithm. For me, the data intensive science CDT is an excellent opportunity to pursue novel research at the junction between statistics, computing and physics while keeping in touch with industry.</p>
+	</div>
+	</li>	<li>
+	<div class="text">            
+		<h3><a href="">Omar Jahangir</a> - 1st year PhD</h3>
+		<p>I graduated from Imperial College London with an MSci in Physics. My final year project was simulating the motion of plastic debris in the North Pacific Ocean at different depths to explore the difference in Garbage Patch locations. This combined statistical techniques and data analysis to accurately simulate the motion, with results indicating a large difference in the location of the Garbage Patches for debris at different ocean depths. After graduating, I worked as an Applied Physicist at Nikon Metrology within their R&D team. The role was a combination of conducting high-voltage experiments, simulating high-voltage Electric fields and analysing data using a variety of statistical techniques. Undertaking a CDT allows me to combine research in fundamental physics with data-science, by using new and innovative techniques such as Machine Learning, which have an application to solving real-world problems. I enjoy programming in languages such as Python, Matlab, C++ and Swift, and already have 5 apps on the iOS app store with downloads exceeding 26k and counting!</p>
+	</div>
+	</li>	<li>
+	<div class="text">            
+		<h3><a href="">Ben Henghes</a> - 1st year PhD</h3>
+		<p>I am a continuing UCL student having graduated with a first class MSci degree in Astrophysics. My master's project was searching for Planet 9 using the Dark Energy Survey (DES). This involved using machine learning algorithms to very quickly classify the useful data within the DES images, and resulted in vastly improved efficiencies by achieving accuracies > 95%. My interest in data intensive science (DIS) stems mainly from my desire to continue in the field of Astronomy and Astrophysics which requires being able to deal with the huge data sets created by the current and future sky surveys, hence why I decided to undertake this PhD in the DIS-CDT.</p>
+	</div>
+	</li>	<li>
+	<div class="text">            
+		<h3><a href="">Matthieu Hentz</a> - 1st year PhD</h3>
+		<p>As part of my final year studying for an MSci in Physics at UCL, I undertook a research project, which consisted of building and testing a simulation of the proton beamline at the Clatterbridge Cancer Centre in Liverpool. This is of interest as a proton calorimeter under development at UCL is regularly tested at Clatterbridge. It is to be implemented in the proton beam therapy facility that is currently under construction at UCLH. Simulating the transport of protons through the beamline is essential in discerning the response of the calorimeter from the characteristics of the proton beam incident on it. The main challenge lies in running simulations with up to a billion initial particles on a reasonable timescale. Partly fuelled by my experience working on this project, my main interests lie in applying computational methods to a variety of complex problems requiring creative problem solving skills. I have programmed extensively in C++ and Python besides having sparingly used several other languages. I am very much looking forward to extending my toolbox throughout my PhD in the CDT and applying it at the intersection of various disciplines requiring data-intensive science.</p>
+	</div>
+	</li>	<li>
+	<div class="text">            
+		<h3><a href="">Ava Lee</a> - 1st year PhD</h3>
+		<p>I graduated from UCL with a first-class honours MSci degree in Physics. My master’s project confirmed that the Kibble-Zurek mechanism can be realised in a non-equilibrium complex condensed matter system, and I am currently working on a paper to publish my results. My main programming languages are Python and C++, but I can also code in Matlab and R. I have industry experience from working with engineers at AECOM. Studying abroad at the University of Copenhagen gave me the opportunity to take courses in machine learning and complex systems, developing my interests in deep learning and neural dynamics. This cultivated my ambitions to develop my own algorithms and to have a future career in data science, which are goals that the Data Intensive Science CDT will allow me to accomplish. </p>
+	</div>
+	</li>	<li>
+	<div class="text">            
+		<h3><a href="">James Legg</a> - 1st year PhD</h3>
+		<p>I have a Physics degree from Cambridge and a master’s in Semiconductor Science and Technology from Imperial. My projects for those were a computer simulation of the aggregation of dendrites and SEM investigations of a semiconductor device. For a short while I was an engineer designing and making superconducting microcircuits (SQUIDS, a voltage standard, an X-ray detector for a satellite and Rhodium-Iron resistor to be used a cryogenic thermometer) in Cambridge and then I was a patent attorney in London, working in the electronics and software fields. My first computer was a Sinclair ZX80. Since then I have moved through various computer programming languages such as, BASIC, 6502 assembler, FORTRAN, Visual Basic, C#, SQL and have worked with various database systems. I also have long experience of procuring and managing IT systems and have been commissioned to write several software projects. For light relief I have, slowly, been learning Icelandic and attend monthly meetings of Raspberry Pint, which has a focus on “physical computing”, i.e. control engineering, through which I have been practising my Python and soldering. I am very pleased to have this opportunity to return to the coalface of science and engineering, in particular to join these exciting times for data science, having left a good while ago in times of gloom and recession.</p>
+	</div>
+	</li>	<li>
+	<div class="text">            
+		<h3><a href="">Davide Piras</a> - 1st year PhD</h3>
+		<p>I graduated from the University of Padova (Italy) in 2015 (Laurea Triennale, a 3-year degree course corresponding to a BSci, 110/110 cum laude) and in 2017 (Laurea Magistrale, a 2-year degree course corresponding to an MSci, 110/110 cum laude). The goal of the first course final project was to test some state-of-the-art models of dark matter particles using the Fermi LAT data. For the final project of the second course, which I carried out at UCL thanks to an Erasmus scholarship, I dealt with the intrinsic alignment of dark matter haloes, using both real data and large N-body simulations. This work has been put in the form of a scientific paper, and submitted to a major astronomical journal. I feel fascinated by the link between our academic work and real-world problems, as well as by how innovative techniques, including machine learning, can be applied to such a wide variety of different fields, ranging from cosmology to medical sciences. I have had experience with many programming languages (C, C++, Python, IDL), and since I am totally interested in intensive data analysis, this CDT is what best suits me.</p>
+	</div>
+	</li>	<li>
+	<div class="text">            
+		<h3><a href="">Charlie Pitman</a> - 1st year PhD</h3>
+		<p>For the past four years, I have studied Physics and Physical Chemistry (Natural Sciences programme) at UCL. With Physics as my major stream, I began to focus on particle physics as the degree progressed. In my final year project, I worked with several other students on constraining the parameters of a simplified dark matter model using the Rivet toolkit. Fascinated by the many different pursuits of BSM physics, I decided to embark on the DIS CDT, allowing me to continue researching while gaining invaluable experience in coding, machine learning and big data analysis techniques.</p>
+	</div>
+	</li>	<li>
+	<div class="text">            
+		<h3><a href="">Patrick Roddy</a> - 1st year PhD</h3>
+		<p>I graduated with an MSci in Natural Sciences, specialising in Astrophysics, from University of Cambridge. My master's project focused on post-processing three-dimensional hydrodynamic simulations using a Monte Carlo Lyman-alpha transfer code to better constrain the epoch of reionisation. I have undertaken internships in: clean energy at Ricardo, software testing at MediaTek, optimisation at MathWorks, and data science at Satavia - an aviation start-up. I see the CDT-DIS as an excellent way to combine my interests in data science, cosmology, and the applications to industry, which can occur through novel research.</p>
+	</div>
+	</li>	<li>
+	<div class="text">            
+		<h3><a href="">Alexander Sophio</a> - 1st year PhD</h3>
+		<p>I completed my undergraduate studies here at UCL and obtained a first class MSci degree in Physics. My final year project was about testing the validity of a theoretical dark matter model by simulating events at the LHC using Monte Carlo generators and comparing the results to real measurements from ATLAS and CMS. Working on this project really sparked my interest in the various types of advanced computational tools that are used for data analysis in high energy physics. Through my undergraduate studies, as well as hobby projects, I have acquired good knowledge of both python and C++. My desire to expand and apply my computational skills, combined with my fascination for particle physics, are what have led me to pursue a PhD at the CDT in data intensive science.</p>
+	</div>
+	</li>
+	<li>
+	<div class="text">            
+		<h3><a href="">Kai Yip</a> - 1st year PhD</h3>
+		<p>I am an MSci Astrophysics graduate from UCL. My main research focus is on (exo-)planetary science. My master project focuses on the atmospheric effect in transiting exoplanetary light curves. The project tested the validity of the current approach we used in light curves interpretation by comparing it with a more realistic approach, and the result reassured us that the current approach is valid under the precision of our current instruments. Throughout the project I had constantly dealt with datasets from Hubble, which are massive. With constant exposure with it, it has sparkled my interest in managing massive data, which I think is an emerging issue in every sector of work. This idea slowly grows on me and eventually It has led me to apply for Data Intensive Science at UCL. </p>
+	</div>
+	</li>	</ul>
+
+</div>
+
+</div>
+
+</div>
+</div>
+
+<!--#include virtual="/footer.php" -->
+
+</div>
+
+</body>
+
+</html>

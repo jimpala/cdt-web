@@ -1,0 +1,69 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+
+<title>Centre for Doctoral Training in Data Intensive Science</title>
+<!--#include virtual="/styles.shtml" -->
+
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+
+</head>
+
+<body>
+
+<div class=container>
+
+<!--#include virtual="/cdt-dis/top.shtml" -->
+
+<div class=middle>
+
+<!--#include virtual="/cdt-dis/left.shtml" -->
+
+<div class=content>
+
+<div class=body>
+
+<div class=bodytext>
+
+<h1>A Student's Life Cycle at UCL's Centre for Doctoral Training in Data Intensive Science</h2>
+<p>
+The studentship offers a unique training experience in the field of DIS. In the 1st year of the PhD a series of intensive courses, 
+designed with the aid of our <a href="/cdt-dis/partners.shtml">partner organisations</a>, will provide a strong theoretical and 
+practical grounding in the techniques, tools and programming languages of DIS, that are commonly used in both academia and industry. 
+This will be followed by undertaking a research project on one of the world leading DIS facilities which STFC contributes towards, such 
+as <a href=http://www.hep.ucl.ac.uk/atlas/>ATLAS</a>  at the <a href="http://home.cern/topics/large-hadron-collider">Large Hadron 
+Collider</a>, <a href="http://sci.esa.int/planck/">Planck</a>, <a href="http://sci.esa.int/gaia/">Gaia</a>, 
+<a href="http://www.darkenergysurvey.org/">DES</a>, <a href="http://desi.lbl.gov/">DESI</a>, 
+<a href="http://sci.esa.int/euclid/">Euclid</a>, the <a href="https://www.skatelescope.org/">Square Kilometre Array</a> 
+and <a href="https://www.lsst.org/">LSST</a>, amongst others, which as well as carrying out ground-breaking research, are also ideally 
+training grounds for DIS techniques. The studentships will also involve a 3-6 month secondment at one of UCL's DIS <a 
+href="/cdt-dis/partners.shtml">partner organisations</a>, who are either power users or world leaders in DIS techniques, such as the <a 
+href="http://www.bbc.co.uk/">BBC</a>, <a href="http://www.economist.com/">The Economist</a>, <a href="http://www.metoffice.gov.uk/">The 
+MET Office</a>, <a href="http://openlab.cern/">CERN openlab</a>, <a href="https://www.nccgroup.trust/uk/">NCC Group</a>, 
+<a href="http://www.starcount.com/">Starcount</a>, <a href="http://www3.lenovo.com/gb/en/">Lenovo</a> and 
+<a href="https://www.mellanox.com/">Mellanox</a> amongst others. Training will be supplemented by regular summer schools and networking 
+events, involving key industrial and academic figures.  The CDT students will develop a unique skillset covering 
+DIS in both academia and industry, will form key contacts and networks in both areas, will work with cutting edge technologies and will 
+be equipped to become world-leading data scientists. 
+</p>
+
+<figure class="centred">
+<img src="student_activities.png" height="450">
+<figcaption class="lefttext">An overview of the four year lifecycle of a typical studentships. </figcaption>
+</figure>
+
+
+</div>
+
+</div>
+
+</div> </div>
+
+<!--#include virtual="/footer.php" -->
+
+</div>
+
+</body>
+
+</html>

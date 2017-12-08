@@ -1,0 +1,140 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title>Centre for Doctoral Training in Data Intensive Science PhD Studentship</title>
+<!--#include virtual="/styles.shtml" -->
+
+<META http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+
+<style>
+	.newsList {
+
+		list-style:none;
+		margin:0;
+		padding:0;
+
+	}
+
+	.newsList li {
+
+		border-bottom:1px dotted #568bbf;
+		padding:0 0 22px;
+		margin:0 0 22px;
+		overflow:auto;
+
+	}
+
+	.newsList .image {
+
+		float:left;
+		width:auto;
+
+	}
+
+	.newsList .text {
+
+		margin-left:95px;
+
+	}
+
+</style>
+
+</head>
+
+<body>
+
+<div class=container>
+<!--#include virtual="/cdt-dis/top.shtml" -->
+<div class=middle>
+<!--#include virtual="/cdt-dis/left.shtml" -->
+<div class=content>
+
+<div class=body>
+
+<div class=bodytext>
+
+<h1>News from UCL's Centre for Doctoral Training in Data Intensive Science</h1>
+
+<ul class="newsList">
+	<li>
+		<div class="image"><a href="http://news.lenovo.com/news-releases/lenovo-accelerates-artificial-intelligence-initiatives-to-solve-humanitys-greatest-challenges.htm"><img src="Lenovo-UCL-AI-PR.png" width="160" alt="stfc_launch" /></a></div>
+	<div class="text">            
+		<h2><a
+	href="http://news.lenovo.com/news-releases/lenovo-accelerates-artificial-intelligence-initiatives-to-solve-humanitys-greatest-challenges.htm">Lenovo
+	press release announcing partnership with UCL in Artificial Intelligence</a></h2>
+		<h3>14th November 2017</h3>
+		<p>Through collaboration with Lenovo, UCL researchers are aiming to apply AI to reconstruct particle trajectories from ATLAS much more efficiently than traditional methods.</p>
+	</div>
+	</li>
+	<li>
+		<div class="image"><a href="http://www.stfc.ac.uk/news/eight-new-phd-training-centres-to-boost-uks-data-science-expertise/"><img src="stfc_cdt_ucl.jpg" width="160" alt="stfc_launch" /></a></div>
+	<div class="text">            
+		<h2><a href="http://www.stfc.ac.uk/news/eight-new-phd-training-centres-to-boost-uks-data-science-expertise/">Eight new PhD training centres to boost UK's data science expertise</a></h2>
+		<h3>26th October 2017</h3>
+		<p>Data intensive science in the UK has received a major boost thanks to an investment of almost £10million to train the next generation of experts in this important research area.</p>
+	</div>
+	</li>
+	<li>
+	<div class="image"><a href="http://www.ucl.ac.uk/news/news-articles/1017/160117-first-light-from-a-gravitational-wave-event"><img src="nasacrop.jpg" width="160" alt="gwaves" /></a></div>
+	<div class="text">            
+		<h2><a href=http://www.ucl.ac.uk/news/news-articles/1017/160117-first-light-from-a-gravitational-wave-event">Catching the first light from a gravitational wave event</a></h2>
+		<h3>16th October 2017</h3>
+		<p>Light and gravitational waves produced by the same event – a pair of neutron stars exploding – have been detected for the first time by a huge international collaboration involving UCL researchers.</p>
+	</div>
+	</li>
+	<li>
+	<div class="image"><a href="https://www.eventbrite.com/e/ucl-centre-for-doctoral-training-in-data-intensive-science-launch-event-tickets-35932167079"><img src="launch_event.png" width="160" alt="Launch Event" /></a></div>
+		<div class="text"> 
+		<h2><a href=https://www.eventbrite.com/e/ucl-centre-for-doctoral-training-in-data-intensive-science-launch-event-tickets-35932167079#">UCL Centre for Doctoral Training in Data Intensive Science: Launch Event</a></h2>
+		<h3>16th September 2017</h3>
+		<p>The launch event was attended by over 120 people, including academics, students and representatives from 25 partner organisations.</p>
+	</div>
+	</li>
+	<li>
+	<div class="image"><a href="http://www.ucl.ac.uk/news/news-articles/0817/030817-dark-universe"><img src="des_yearone.jpg" width="160" alt="des" /></a></div>
+	<div class="text">            
+		<h2><a href=http://www.ucl.ac.uk/news/news-articles/0817/030817-dark-universe">Accurately measuring the dark universe</a></h2>
+		<h3>3rd August 2017</h3>
+		<p>The theory that dark matter and dark energy make up most of the cosmos has been confirmed by extremely accurate measurements from the Dark Energy Survey (DES) collaboration involving UCL scientists.</p>
+	</div>
+	</li>
+	<li>
+	<div class="image"><a href="https://www.theguardian.com/science/life-and-physics/2017/jul/17/getting-to-the-bottom-of-the-higgs-boson/"><img src="atlas_higgsbb.jpg" width="160" alt="atlas_higgsbb" /></a></div>
+	<div class="text">            
+		<h2><a href="https://www.theguardian.com/science/life-and-physics/2017/jul/17/getting-to-the-bottom-of-the-higgs-boson/">Getting to the bottom of the Higgs boson</a></h2>
+		<h3>17th July 2017</h3>
+		<p>As the Large Hadron Collider at CERN continues probing the high-energy frontier of physics, a new feature of its greatest discovery so far has come into view, involving UCL scientists.</p>
+	</div>
+	</li>
+	<li>
+	<div class="image"><a href="https://www.ucl.ac.uk/mathematical-physical-sciences/maps-news-publication/stfc-funded-cdt/"><img src="ucl_image.jpeg" width="160" alt="ucl_image" /></a></div>
+	<div class="text">            
+		<h2><a href="https://www.ucl.ac.uk/mathematical-physical-sciences/maps-news-publication/stfc-funded-cdt/">UCL wins bid to host STFC's first Centre for Doctoral Training</a></h2>
+		<h3>13th February 2017</h3>
+		<p>After a very competitive selection process, UCL has been chosen by STFC to host the Centre for Doctoral Training (CDT) in Data Intensive Science, the first CDT funded by STFC.</p>
+	</div>
+	</li>
+	<li>
+	<div class="image"><a href="http://www.stfc.ac.uk/news/stfc-invests-in-data-science-experts/"><img src="stfc_dis.jpg" width="160" alt="stfc_dis" /></a></div>
+	<div class="text">            
+		<h2><a href="http://www.stfc.ac.uk/news/stfc-invests-in-data-science-experts/">STFC invests £1.3million in next generation of data-science experts</a></h2>
+		<h3>9th February 2017</h3>
+		<p>Data intensive science in the UK has received a major boost thanks to an investment of more than £1million to train the next generation of experts in this research area.</p>
+	</div>
+	</li>
+	</ul>
+</div>
+
+</div>
+
+</div>
+</div>
+
+<!--#include virtual="/footer.php" -->
+
+</div>
+
+</body>
+
+</html>

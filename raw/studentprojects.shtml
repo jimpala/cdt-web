@@ -1,0 +1,197 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title>Centre for Doctoral Training in Data Intensive Science PhD Studentship</title>
+<!--#include virtual="/styles.shtml" -->
+
+<META http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+
+<style>
+	.projectList {
+
+		list-style:none;
+		margin:0;
+		padding:0;
+
+	}
+
+	.projectList li {
+
+		border-bottom:1px dotted #568bbf;
+		padding:0 0 22px;
+		margin:0 0 22px;
+		overflow:auto;
+
+	}
+
+	.projectList .image {
+
+		float:left;
+		width:auto;
+
+	}
+
+	.projectList .text {
+
+		margin-left:0px;
+
+	}
+
+</style>
+
+
+</head>
+
+<body>
+
+<div class=container>
+<!--#include virtual="/cdt-dis/top.shtml" -->
+<div class=middle>
+<!--#include virtual="/cdt-dis/left.shtml" -->
+<div class=content>
+
+<div class=body>
+
+<div class=bodytext>
+
+<h1>Projects at UCL's Centre for Doctoral Training in Data Intensive Science</h1>
+
+<ul class="projectList">
+	<li>
+	<div class="text">            
+		<h3><a href="">A generative model of cosmic large-scale structure</a></h3>
+		<p>Student: Davide Piras</p>
+		<p>Supervisory Team: Dr. Benjamin Joachimi (Physics), Prof. John Shawe-Taylor (Computing, Head of Department)
+	</div>
+	</li>
+	<li>
+	<div class="text">            
+		<h3><a href="">Maximising the capabilities of a jet classification algorithm on LHC track and vertex data</a></h3>
+		<p>Student: Greg Barbour</p>
+		<p>Supervisory Team: Dr. Andreas Korn (Physics) </p>
+	</div>
+	</li>
+	<li>
+	<div class="text">            
+		<h3><a href="">Use of imaging techniques to study hadronic jets from the ATLAS experiment at CERN</a></h3>
+		<p>Student: Alexander Sophio</p>
+		<p>Supervisory Team: Dr. Mario Campanelli (Physics), Dr. Arthur Grettoni (Gatsby Computational Neuroscience Unit)</p>
+	</div>
+	</li>
+	<li>
+	<div class="text">            
+		<h3><a href="">Novel spherical informatics techniques for studying cosmic evolution</a></h3>
+		<p>Student: Tarek Allam</p>
+		<p>Supervisory Team: Dr. Jason McEwen (MSSL, CDT Director of Research)</p>
+	</div>
+	</li>	<li>
+	<div class="text">            
+		<h3><a href="">A statistical approach to astrochemistry</a></h3>
+		<p>Student: Damien De Mijolla</p>
+		<p>Supervisory Team: Prof. Serena Viti (Physics)</p>
+	</div>
+	</li>	<li>
+	<div class="text">            
+		<h3><a href="">Novel applications of machine learning in cosmology and beyond</a></h3>
+		<p>Student: Ben Henghes</p>
+		<p>Supervisory Team: Prof. Ofer Lahav (Physics, Director of CDT)</p>
+	</div>
+	</li>	<li>
+	<div class="text">            
+		<h3><a href="">Fully Harnessing the Potential of Machine Learning to Expand the Discovery Potential of the LHC</a></h3>
+		<p>Student: Ava Lee</p>
+		<p>Supervisory Team: Dr. Tim Scanlon (Physics, CDT Director of Research), Dr. Gabriel Facini (Physics, ATLAS Exotics Convener), Michael Kagan (SLAC, ATLAS Machine Learning Forum Convener)</p>
+	</div>
+	</li>	<li>
+	<div class="text">            
+		<h3><a href="">Characterising exoplanet atmospheres using deep neural networks</a></h3>
+		<p>Student: Kai Hou Kip</p>
+		<p>Supervisory Team: Prof. Giovanna Tinetti (Physics), Dr. Ingo Waldmann (Physics)</p>
+	</div>
+	</li>	<li>
+	<div class="text">            
+		<div class="image"><a href=""><img src="figures/projects/2017/Lux.jpg" width="160" alt="Lux" /></a></div>
+		<h3><a href="">Machine Learning in Direct Dark Matter Experiments</a></h3>
+		<p>Student: Omar Jahangir</p>
+		<p>Supervisory Team: <a href="https://iris.ucl.ac.uk/iris/browse/profile?upi=CGHAG64">Dr. Chamkaur Ghag</a> (Physics), <a href="https://iris.ucl.ac.uk/iris/browse/profile?upi=TPSCA29">Dr. Tim Scanlon</a> (Physics),  <a href="https://www.ucl.ac.uk/star/people/iwaldmann.html">Dr. Ingo Waldmann</a> (Physics)</p>
+		<p> Direct Dark Matter search experiments operate highly sensitive detectors in deep underground laboratories, seeking to detect rare and low-energy scatters from Dark Matter particles in our galaxy. The world-leading LUX experiment, based at the Sanford Underground Research Facility, S. Dakota, operates a xenon target that is the most radio-quiet environment on Earth in the hunt for Weakly Interacting Massive Particles (WIMPs). WIMPs are expected to produce characteristic single vertex elastic scattering signatures. The rate of candidate events that satisfy this requirement is low, about 2 per day, and this is consistent with background expectation. However, there are many WIMP and non-WIMP models of Dark Matter that may produce significantly different signatures. LUX triggers about 1 million times per day to record data from completely uncharted electroweak parameter space, potentially containing new physics and non-standard WIMP or non-WIMP Dark Matter signals. The techniques of Machine Learning and Deep Learning present opportunities to analyse this data efficiently, particularly where faint signals with unknown characteristics may be hidden amongst large backgrounds. Developing these techniques could prove to be the key for discovery in the next generation of leading Dark Matter experiment, LZ, presently under construction and set to begin taking data within the lifetime of this project. LZ will examine the bulk of the favoured theoretical parameter space for Dark Matter, uncovering unknown backgrounds never previously encountered and potential signals. This project will develop the routines to analyse the existing rich LUX data for any galactic signals or new backgrounds, and prepare the framework for a robust and rapid interpretation of the data from LZ, be it for the first discovery of WIMPs or any hints of physics Beyond the Standard Model.</p>
+	</div>
+	</li>	<li>
+	<div class="text">            
+		<div class="image"><a href=""><img src="figures/projects/2017/Gaia.jpg" width="160" alt="hllhc_event" /></a></div>
+		<h3><a href="">Machine Reading and Milky Model in the Gaia era</a></h3>
+		<p>Student: Tom Crossland</p>
+		<p>Supervisory Team: <a href="http://www.mssl.ucl.ac.uk/~dka/index.html">Dr. Daisuke Kawatai</a> (MSSL), <a href="https://pontus.stenetorp.se">Dr. Pontus Stenetorp</a> (Machine Reading Group, Computer Science), <a href="http://www.riedelcastro.org">Dr. Sebastian Riedel</a> (Machine Reading Group, Computer Science), <a href="http://thomaskitching.net">Dr. Thomas Kitching</a> (MSSL), <a href="http://www.jasonmcewen.org">Dr. Jason McEwen</a> (MSSL)</p>
+		<p> We will develop a tool to derive the Milky Way mass distribution with a Hierarchical Bayesian Model from the various kinds of observational constraints automatically extracted from the vast amount of literature published in the past with a novel machine reading tool. We will first train the machine to automatically extract the key observational measurements of the Milky Way, e.g. scale-length of the Galactic disk, from scientific articles. Then, we will feed them into the Milky Way mass model, statistically combining the literature values and their errors using Bayesian statistics, to derive the current best Milky Way model, including the mass distribution of the dark matter and stellar disk as a function of stellar populations. ESA’s Gaia mission is going to make a full size dataset of position and velocity of more than one billion stars publicly available in April 2017. A large number of papers are expected to be published from such big data. The developed tool will be designed to use many pieces of scattered information, i.e. many individual publications by different groups, into a single unified statistically verified Milky Way model. We will compare the derived Milky Way models with the publications before and after the Gaia data, and evaluate the statistical impact of the Gaia mission. </p>
+	</div>
+	</li>	<li>
+	<div class="text">            
+		<div class="image"><a href=""><img src="figures/projects/2017/hllhc_event.png" width="160" alt="hllhc_event" /></a></div>
+		<h3><a href="">Computer vision and machine learning for pattern recognition in LHC data</a></h3>
+		<p>Student: <a href="">Charlie Donaldson</a></p>
+		<p>Supervisory Team: <a href="https://iris.ucl.ac.uk/iris/browse/profile?upi=NKONS65">Prof. Nikos Konstantinidis</a> (Physics, Director CDT, ATLAS UK-PI, Director HEP Summer School), <a href="https://www.ppd.stfc.ac.uk/Pages/Dmitry-Emeliyanov.aspx">Dr. Dmitry Emeliyanov</a> (Rutherford Appleton Laboratory, STFC)</p>
+		<p>The current track finding algorithms adopted in the LHC experiments are based on the combinatorial track following. The combinatorial stage of the algorithm combines hits from a subset of sensors into short track segments called seeds. The track following stage traces each seed through the detector volume and picks up hits belonging to a seeded track. As the seed number scales non-linearly with the number of hits, it leads to ever-increasing demand for CPU, as the LHC will continue to increase the beam intensities over the next decades. This motivates investigating novel, non-combinatorial approaches for track finding, which could lead to huge savings in CPU needs over the LHC lifetime. The aim of this project is to explore and compare pattern recognition methods based on integral transformations, in particular, iterative re-weighted Hough Transform (HT) and multiscale Radon Transform (RT) with a set of predefined hit patterns.  Machine learning (ML) is a crucial component in both approaches. For example, a ML-based classifier can analyse feature vectors extracted from HT images in order to detect hits from tracks of interest. For the RT approach, pattern set optimization is crucial for performance and overall feasibility, especially, for hardware-based track finding.  Using the ML techniques, the pattern set can be learned as an approximation of sparsely coded set of training reference tracks representing expected events of interest.</p>
+	</div>
+	</li>	<li>
+	<div class="text">            
+		<h3><a href="">Machine learning to populate Quantemol Database (QDB)</a></h3>
+		<p>Student: Mala Virdee</p>
+		<p>Supervisory Team: Prof. Jonathan Tennyson (Physics, CDT Director of Training)</p>
+	</div>
+	</li>	<li>
+	<div class="text">            
+		<h3><a href="">Cheap deep-learning for photometric Supernova classification and beyond</a></h3>
+		<p>Student: Patrick Roddy</p>
+		<p>Supervisory Team: Dr. Jason McEwen (MSSL, CDT Director of Research), Prof. Ofer Lahav (Physics, Director of CDT), Dr. Denise Gorse (Computing)</p>
+	</div>
+	</li>	<li>
+	<div class="text">            
+		<h3><a href="">Using switches to control clusters and data flows</a></h3>
+		<p>Student: James Legg</p>
+		<p>Supervisory Team: Dr. Jeremy Yates (Physics, CDT Partners Liaison and Placements Coordinator, DiRAC Industrial Engagement Officer and Deputy Project Director), Dr. David Sankey (Rutherford Appleton Laboratory, STFC</p>
+	</div>
+	</li>	<li>
+	<div class="text">            
+		<h3><a href="">Firmware development in the ATLAS Hardware Track Trigger for HL-LHC</a></h3>
+		<p>Student: Lucas Borgna</p>
+		<p>Supervisory Team: Prof. Nikos Konstantinidis (Physics, Director CDT, ATLAS UK-PI, Director HEP Summer School), Dr. David Sankey (Rutherford Appleton Laboratory, STFC)</p>
+	</div>
+	</li>
+<li>
+	<div class="text">            
+		<h3><a href="">Proton CT Image Reconstruction with X-Ray CT Priors</a></h3>
+		<p>Student: Matthieu Hentz</p>
+		<p>Supervisory Team:  Dr. Simon Jolly (Physics), Prof. Simon Arridge (Centre for Medical Image Computing), Dr. Jamie McClellandi (Centre for Medical Image Computing)</p>
+	</div>
+	</li>
+<li>
+	<div class="text">            
+		<div class="image"><a href=""><img src="figures/projects/2017/NOvA_detector.jpg" width="160" alt="hllhc_event" /></a></div>
+		<h3><a href="">Semantic segmentation for neutrino event reconstruction in NOvA</a></h3>
+		<p>Student: Kevin Mulder</p>
+		<p>Supervisory Team:  <a href="https://iris.ucl.ac.uk/iris/browse/profile?upi=CBACK52">Dr. Chris Backhouse</a> (Physics)</p>
+		<p> The NOvA experiment studies the changes ("oscillations") of neutrinos as they travel 810km from an accelerator at
+		Fermilab, outside Chicago, to a huge detector in northern Minnesota. By studying these oscillations we hope to learn
+		which of the three neutrinos is the heaviest, and if there is any difference between the oscillations of neutrinos and their
+		antiparticles. Such a difference could provide an explanation for the mystery that the universe is dominated by matter,
+		rather than consisting of equal parts matter and antimatter. In 2018/2019 NOvA will operate a small replica detector that we will expose to beams of particles with well-controlled properties. This project is to apply modern deep-learning techniques to the large collected data sample to develop a new, more-powerful, neutrino interaction classifier, and potentially a new technique for efficiently simulating neutrino interactions.</p>
+	</div>
+	</li>
+
+</ul>
+
+</div>
+
+</div>
+
+</div>
+</div>
+
+<!--#include virtual="/footer.php" -->
+
+</div>
+
+</body>
+
+</html>

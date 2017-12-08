@@ -1,0 +1,75 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//Dtd HTML 4.01//EN"
+    "http://www.w3.org/tr/html4/strict.dtd">
+<html>
+<head>
+<title>UCL AWAKE Group Members</title>
+<!--#include virtual="/styles.shtml" -->
+
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+
+</head>
+
+<body>
+
+<div class=container>
+<!--#include virtual="/awake/top.shtml" -->
+<div class=middle>
+<!--#include virtual="/awake/left.shtml" -->
+<div class=content>
+
+<div class=body>
+
+<div class=bodytext>
+
+<h2>UCL AWAKE Group Members</h2>
+
+<table class="people">
+<tbody>
+<tr>
+<th>Name</th>
+<th>Location</th>
+<th>Email</th>
+</tr>
+
+<tr><td><a href="https://www.hep.ucl.ac.uk/people/mugshot.shtml?id=cascella">Michele Cascella</a></td>
+<td>D15</td><td>m.cascella AT ucl.ac.uk</td></tr>
+
+<tr><td><a href="/people/mugshot.shtml?id=ldeacon">Lawrence Deacon</a></td>
+<td>D14</td><td> lawrence.deacon AT ucl.ac.uk</td></tr>
+
+<tr><td><a href="https://www.hep.ucl.ac.uk/people/mugshot.shtml?id=jolly">Simon Jolly</a></td>
+<td>D12</td><td>s.jolly AT ucl.ac.uk</td></tr>
+
+<tr><td><a
+href="https://www.hep.ucl.ac.uk/people/mugshot.shtml?id=fkeeble">Fearghus
+Keeble</a></td>
+<td> CERN </td><td>fearghus.keeble.11 AT ucl.ac.uk</td></tr>
+
+<!--
+<tr><td><a href="/people/mugshot.shtml?id=smandry">Scott Mandry</a></td>
+<td>Munich</td><td>s.mandry.11 AT ucl.ac.uk</td></tr>
+-->
+
+<tr><td><a href="/people/mugshot.shtml?id=peter">Peter Sherwood</td>
+<td>CERN</td><td>peter.sherwood AT cern.ch</td></tr>
+
+<tr><td><a href="/people/mugshot.shtml?id=mw">Matthew Wing</td>
+<td>DESY</td><td>m.wing AT ucl.ac.uk</td></tr>
+
+</tbody>
+</table>
+
+</div>
+
+</div>
+
+</div>
+</div>
+
+<!--#include virtual="/footer.php" -->
+
+</div>
+
+</body>
+
+</html>

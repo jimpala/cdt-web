@@ -1,0 +1,143 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//Dtd HTML 4.01//EN"
+    "http://www.w3.org/tr/html4/strict.dtd">
+<html>
+<head>
+<title>Centre for Doctoral Training in Data Intensive Science Management Team</title>
+<!--#include virtual="/styles.shtml" -->
+
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+
+</head>
+
+<body>
+
+<div class=container>
+<!--#include virtual="/cdt-dis/top.shtml" -->
+<div class=middle>
+<!--#include virtual="/cdt-dis/left.shtml" -->
+<div class=content>
+
+<div class=body>
+
+<div class=bodytext>
+
+<h1>Management Team at UCL's Centre for Doctoral Training in Data Intensive Science</h1>
+
+<p>
+
+<h2>Co-Directors of the Centre</h2>
+
+<table class="people" style="float:center">
+<tbody>
+<tr>
+<th>Name</th>
+<th>Location</th>
+<th>Email</th>
+</tr>
+
+<tr><td><a href="https://iris.ucl.ac.uk/iris/browse/profile?upi=NKONS65">Nikos Konstantinidis</a></td>
+<td>D16, Department of Physics and Astronomy, Gower Street</td><td>n.konstantinidis@ucl.ac.uk</td></tr>
+
+<tr><td><a href="https://iris.ucl.ac.uk/iris/browse/profile?upi=OLAHA60">Ofer Lahav</a></td>
+<td>3rd Floor, 132 Hampstead Road</td><td> o.lahav@ucl.ac.uk</td></tr>
+
+</tbody>
+</table>
+
+</p>
+<p>
+
+<h2>Directors of Research</h2>
+
+<table class="people" style="float:center">
+	<tbody>
+<tr>
+<th>Name</th>
+<th>Location</th>
+<th>Email</th>
+</tr>
+<tr><td><a href="https://iris.ucl.ac.uk/iris/browse/profile?upi=JMCEW60">Jason McEwen</a></td>
+<td>Room 122, Mullard Space Science Laboratory</td><td>jason.mcewen@ucl.ac.uk </td></tr>
+
+<tr><td><a
+href="https://iris.ucl.ac.uk/iris/browse/profile?upi=TPSCA29">Tim Scanlon</a></td>
+<td>D17A, Department of Physics and Astronomy, Gower Street</td><td>timothy.scanlon@ucl.ac.uk</td></tr>
+
+</tbody>
+</table>
+
+</p>
+<p>
+
+<h2>Partners Liaison and Placements Coordinator</h2>
+
+<table class="people">
+	<tbody>
+		<caption>
+			
+		</caption>
+<tr>
+<th>Name</th>
+<th>Location</th>
+<th>Email</th>
+</tr>
+<tr><td><a href="https://iris.ucl.ac.uk/iris/browse/profile?upi=JAYAT84">Jeremy Yates</a></td>
+<td> 3rd Floor, 132 Hampstead Road </td><td>j.a.yates@ucl.ac.uk</td></tr>
+
+</tbody>
+</table>
+
+</p>
+<p>
+
+<h2>Directors of Training</h2>
+
+<table class="people">
+	<tbody>
+<tr>
+<th>Name</th>
+<th>Location</th>
+<th>Email</th>
+</tr>
+<tr><td><a href="https://iris.ucl.ac.uk/iris/browse/profile?upi=JTENN43">Jonathan Tennyson</a></td>
+<td> A4, Department of Physics and Astronomy, Gower Street </td><td>j.tennyson@ucl.ac.uk</td></tr>
+
+<tr><td><a href="https://iris.ucl.ac.uk/iris/browse/profile?upi=ACGRY83">Clare Gryce</a></td>
+	<td> The Podium, 1 Eversholt Street</td><td>c.gryce@ucl.ac.uk</td></tr>
+
+</tbody>
+</table>
+
+</p>
+<p>
+
+<h2>Admissions and Graduate Tutor</h2>
+
+<table class="people">
+	<tbody>
+<tr>
+<th>Name</th>
+<th>Location</th>
+<th>Email</th>
+</tr>
+<tr><td><a href="https://iris.ucl.ac.uk/iris/browse/profile?upi=SVITI18">Serena Viti</a></td>
+<td> 3rd Floor, 132 Hampstead Road </td><td>serena.viti@ucl.ac.uk</td></tr>
+
+</tbody>
+</table>
+
+
+</div>
+
+</div>
+
+</div>
+</div>
+
+<!--#include virtual="/footer.php" -->
+
+</div>
+
+</body>
+
+</html>

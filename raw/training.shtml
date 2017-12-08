@@ -1,0 +1,167 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+
+<title>Centre for Doctoral Training in Data Intensive Science</title>
+<!--#include virtual="/styles.shtml" -->
+
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+
+</head>
+
+<body>
+
+<div class=container>
+
+<!--#include virtual="/cdt-dis/top.shtml" -->
+
+<div class=middle>
+
+<!--#include virtual="/cdt-dis/left.shtml" -->
+
+<div class=content>
+
+<div class=body>
+
+<div class=bodytext>
+
+<h1>Training at UCL's Centre for Doctoral Training in Data Intensive Science</h2>
+
+<p>
+All students in the Centre will undertake a unique training course, specially designed with the aid of our <a href="/cdt-dis/partners.shtml">partner organisations</a>, it will provide a strong theoretical and practical grounding in the techniques, tools and languages of DIS, in both academia and industry. Students will develop a unique skillset covering DIS in both academia and industry, will form key contacts and networks in both areas, will work with cutting edge technologies and will be equipped to become world-leading data scientists.  An overview of the training provided in the fours years can be found below.
+</p>
+
+<h3> Taught Courses </h3>
+
+The Centre will deliver a front-loaded training programme, with 180 hours of taught courses focussed on the first six months:
+
+<ul>
+	<li>
+	<div class="text">
+		<p>A 30h course on Research Software Engineering with Python or C++.</p>
+	</div>
+	</li>
+	<li>
+	<div class="text">
+		<p>A 30h course on Statistics and Data Analysis.</p>
+	</div>
+	</li>
+	<li>
+	<div class="text">
+		<p>One of three 30 hour modules on: Computational and Simulation Methods, Numerical Optimisation or High Performance Computing.</p>
+	</div>
+	</li>
+	<li>
+	<div class="text">
+		<p>A 30 hour course on Machine Learning with Big Data.</p>
+	</div>
+	</li>
+	<li>
+	<div class="text">
+		<p>60 hours of specialist scientific courses tailored to the student's project, from: the HEP graduate programme, the Astrophysics graduate programme and modules from the MSc/MSci courses registered in Physics and Astronomy/Space and Climate Physics.</p>
+	</div>
+	</li>
+</ul>
+
+<h3>Research Project</h3>
+
+<p>The core of the studentship will consist of a research project, focussed on DIS research areas within the STFC remit. Many of the projects involve preparation and exploitation of facilities supported by STFC, such as <a href=http://www.hep.ucl.ac.uk/atlas/>ATLAS</a>  at the <a href="http://home.cern/topics/large-hadron-collider">Large Hadron 
+Collider</a>, <a href="http://sci.esa.int/planck/">Planck</a>, <a href="http://sci.esa.int/gaia/">Gaia</a>, 
+<a href="http://www.darkenergysurvey.org/">DES</a>, <a href="http://desi.lbl.gov/">DESI</a>, 
+<a href="http://sci.esa.int/euclid/">Euclid</a>, the <a href="https://www.skatelescope.org/">Square Kilometre Array</a>, <a href="https://www.lsst.org/">LSST</a>, <a href="https://almascience.eso.org/">ALMA</a> and <a href="https://www.jwst.nasa.gov/">JWST</a> amongst others, which as well as carrying out ground-breaking research, are also ideal 
+training grounds for DIS. </p> 
+
+<h3>Internships</h3>
+
+<p>The studentships will involve a 6 month secondment at one of UCL's DIS <a 
+href="/cdt-dis/partners.shtml">partner organisations</a>, who are either power users or world leaders in DIS techniques, such as the <a 
+href="http://www.bbc.co.uk/">BBC</a>, <a href="http://www.economist.com/">The Economist</a>, <a href="http://www.metoffice.gov.uk/">The 
+MET Office</a>, <a href="http://openlab.cern/">CERN openlab</a>, <a href="https://www.nccgroup.trust/uk/">NCC Group</a>, 
+<a href="http://www.starcount.com/">Starcount</a>, <a href="http://www3.lenovo.com/gb/en/">Lenovo</a> and 
+<a href="https://www.mellanox.com/">Mellanox</a> amongst others. The work undertaken as part of the internship will be entirely separate from the research work for the thesis and will be focussed on a project proposed by the partner orgnaisation. </p> 
+
+<h3>Group Projects</h3>
+
+<p>A four month long project based on real-world DIS problems provided by our partner organisations, who will provide both their data and expertise. The project will be performed in self-selected groups of 3 or 4 students, overseen by an academic from UCL and a mentor from the partner organisations.</p>
+
+<h3>Summer Schools</h3>
+
+<p>The students will attend a DIS Summer School in their 1st year, covering data science tools/technologies used by our partner organisations, GPU programming and other hardware acceleration technologies. In addition they will attend an international summer school in their 3rd year related to their research project.</p> 
+
+<h3>Workshops</h3>
+
+Workshops throughout the four years will provide dedicated short courses on DIS related topics, provided by both our partner organisations and academic staff:
+<ul>
+	<li>
+	<div class="text">
+		<p>Software Carpentry: basic introduction to: bash scripts, gif, databases, software use.</p>
+	</div>
+	</li>
+	<li>
+	<div class="text">
+		<p>Data Security and Privacy Workshop: provided by two of our partner organisations, <a href="https://www.nccgroup.trust/uk/">NCC</a> and <a href="https://www.privitar.com/">Privitar</a>, who are world leading experts in their respective fields.</p>
+	</div>
+	</li>	<li>
+	<div class="text">
+		<p>Additional workshops on specific DIS topics (for instance machine learning, GPUs, code profiling and optimisation, FPGAs), will be provided at regular intervals throughout the studentship.</p>
+	</div>
+	</li>
+</ul>
+
+<h3> Transferable skills </h3>
+
+Transferable skills courses provided by UCL graduate school, UCL research facilitators and our partner organisations will be undertaken throughout the four years of the studentship:
+
+<ul>
+	<li>
+	<div class="text">
+		<p>Academic presentation</p>
+	</div>
+	</li>
+	<li>
+	<div class="text">
+		<p>Writing for publication</p>
+	</div>
+	</li>	<li>
+	<div class="text">
+		<p>Media Training</p>
+	</div>
+	</li>	<li>
+	<div class="text">
+		<p>Entrepreneurship</p>
+	</div>
+	</li>	<li>
+	<div class="text">
+		<p>Intellectual Property</p>
+	</div>
+	</li>	<li>
+	<div class="text">
+		<p>Science in the Economy</p>
+	</div>
+	</li>	<li>
+	<div class="text">
+		<p>Research planning</p>
+	</div>
+	</li>
+</ul>
+
+<figure class="centred">
+<img src="student_activities.png" height="450">
+<figcaption class="lefttext">An overview of the four year lifecycle of a typical studentships. </figcaption>
+</figure>
+
+
+</div>
+
+</div>
+
+</div> </div>
+
+<!--#include virtual="/footer.php" -->
+
+</div>
+
+</body>
+
+</html>

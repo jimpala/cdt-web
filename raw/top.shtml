@@ -1,0 +1,12 @@
+<div class=head>
+  <a href="http://www.ucl.ac.uk" title="UCL main site"><img class=masthead src="/logo/eps-logo-black-small-cropped-BW.gif" alt="UCL"></a>
+<h4><a href="http://www.phys.ucl.ac.uk/">Physics and Astronomy</a> &raquo;
+<h1>Centre for Doctoral Training in Data Intensive Science</h1>
+</div>
+
+<div class=topBar>
+
+<!--#config timefmt="%d&nbsp;%b&nbsp;%Y" -->
+<!--#echo encoding="none" var="DATE_LOCAL" -->
+
+</div>

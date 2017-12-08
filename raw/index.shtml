@@ -1,0 +1,87 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+
+<title>Centre for Doctoral Training in Data Intensive Science</title>
+<!--#include virtual="/styles.shtml" -->
+
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+
+</head>
+
+<body>
+
+<div class=container>
+
+<!--#include virtual="/cdt-dis/top.shtml" -->
+
+<div class=middle>
+
+<!--#include virtual="/cdt-dis/left.shtml" -->
+
+<div class=content>
+
+<div class=body>
+
+<div class=bodytext>
+
+<h1>UCL's Centre for Doctoral Training in Data Intensive Science</h2>
+<p>
+UCL was selected, after a highly competitive process, to host STFC's first <a 
+href="http://www.stfc.ac.uk/news/stfc-invests-in-data-science-experts/">Centre for Doctoral Training (CDT)</a> in data intensive science 
+(DIS). DIS encompasses a wide range of areas in the field of 'big-data' including the collection, storage and analysis of large datasets, 
+as well as the use of complex models, algorithms and machine learning techniques to interpret the data. The Centre will primarily 
+carry out research in 
+STFC's flagship Data Intensive Science projects, in High Energy Physics and Astronomy, which have been at the forefront of DIS research 
+for several decades and provide the ideal training ground for DIS.
+</p>
+<p>
+Over 80 academics from across UCL will be involved in the Centre. This 
+includes academics from the <a href="https://www.hep.ucl.ac.uk/">High Energy Physics</a>, 
+<a href="http://www.ucl.ac.uk/star/">Astrophysics</a> and the <a href="https://www.ucl.ac.uk/phys/amopp">Atomic and Molecular Physics</a> 
+groups in the <a href="http://www.phys.ucl.ac.uk/">Department of Physics & Astronomy</a>, as well as academics from the 
+departments of <a href="http://www.ucl.ac.uk/mssl">Space and Climate Physics</a>, 
+<a href="http://www.cs.ucl.ac.uk/home/">Computer Science</a>, <a href="https://www.ucl.ac.uk/Mathematics/">Mathematics</a>, <a 
+href="https://www.ee.ucl.ac.uk/">Electrical Engineering</a> and <a href="http://www.ucl.ac.uk/statistics">Statistical Science</a>. The 
+CDT's vision is to provide a unique studentship experience, that will produce highly trained and employable PhD graduates with advanced 
+and 
+widely applicable skills in DIS, who will ultimately become the future leaders of this field in both academia and industry. 
+In addition, by bringing together DIS experts from a range of sectors and fields, it will promote the development of new DIS techniques or 
+the application of existing techniques to new areas, which will have a wide and significant impact on all sectors.
+</p>
+<p>
+The Centre launched in September 2017 and is <a href="https://www.hep.ucl.ac.uk/cdt-dis/studentships.shtml">now hiring</a> for its 2nd cohort, who will start their PhDs in September 2018.
+</p>
+<p>
+For more information on the CDT, please contact:
+<a href="mailto:n.konstantinidis@ucl.ac.uk">Prof. Nikos Konstantinidis</a> or
+<a href="mailto:o.lahav@ucl.ac.uk">Prof. Ofer Lahav</a>
+</p>
+
+<figure class="centred">
+<img src="academics.png" class="scaled">
+<figcaption class="lefttext"> Over 80 academics from 5 departments are involved in the Centre, incorporating a wide-range of expertise in both applied and theoretical DIS. All projects will have an academic from another department on the supervisory teams.
+</figcaption>
+</figure>
+
+<!--
+<figure class="centred">
+<img src="HiggsEvent.png" class="scaled">
+<figcaption class="lefttext">A candidate Higgs Event from the ATLAS detector. There are over 100 million collisions in the ATLAS detector per second, but only a tiny fraction of the collisions will create a Higgs boson. Quickly and effectively analysing these huge datasets for a tiny signal has resulted in the ATLAS experiment being at the forefront of developments in data intensive science. </figcaption>
+</figure>
+-->
+
+</div>
+
+</div>
+
+</div> </div>
+
+<!--#include virtual="/footer.php" -->
+
+</div>
+
+</body>
+
+</html>

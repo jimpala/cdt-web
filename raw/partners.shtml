@@ -1,0 +1,121 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+
+<title>Centre for Doctoral Training in Data Intensive Science</title>
+<!--#include virtual="/styles.shtml" -->
+
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+
+</head>
+
+<body>
+
+<div class=container>
+
+<!--#include virtual="/cdt-dis/top.shtml" -->
+
+<div class=middle>
+
+<!--#include virtual="/cdt-dis/left.shtml" -->
+
+<div class=content>
+
+<div class=body>
+
+<div class=bodytext>
+
+<h1>Partner Organisations at UCL's Centre for Doctoral Training in Data Intensive Science</h2>
+<p>
+The CDT training programme is tailored to maximise the interactions and networking opportunities between the PhD students and our partner 
+organizations, as well as encouraging knowledge-transfer between all the sectors and fields involved in DIS. To achieve this, we have 
+selected as 
+partners of the CDT a unique blend of private and public sector organisations that are either developers or clients of DIS techniques. In 
+total, we 
+currently have 20 organisations engaged with the Centre, shown in the table below, which span a broad range of sectors,
+from banking and publishing, to cyber security, transportation, and Customer Data Analysis, to name just a few. As well as offering 
+secondment opportunities to the students, the partners also act as mentors, provide industry focussed training sessions and provide 
+feedback on the overall training programme to ensure it is tailored to fulfil the requirements of all sectors. 
+</p>
+
+<p>
+There are always opportunities for new companies to get involved in the CDT, so if you are a company with interest in this field, please 
+contact 
+<a href="mailto:n.konstantinidis@ucl.ac.uk">Prof. Nikos Konstantinidis</a> or <a href="mailto:o.lahav@ucl.ac.uk">Prof. Ofer Lahav</a> 
+for further details.
+</p>
+
+
+<figure class="centred">
+<!--
+<table cellpadding="5" class="bordered centred scaled" style="width: 96%; font-size: 1.2em;">
+<tr>
+<td class="centred" width="40%" style="background: #eee;">
+<u>IT Companies</u>
+<br /><b>Lenovo</b>
+<br /><b>Mellanox</b>
+<br /><b>SGI</b>
+<br /><b>OCF</b>
+</td>
+
+<td class="centred" width="60%" style="background: #cff;">
+<u>Public sector organisations</u>
+<br /><b>BBC</b>
+<br /><b>Transport for London (TfL)</b>
+<br /><b>The Met Office</b>
+<br /><b>European Bank for Reconstruction and Development</b>
+</td>
+</tr>
+
+<tr>
+<td class="centred" rowspan="2" style="background: #f9f;">
+<u>Data Intensive Companies</u>
+<br /><b>Petroleum GeoServices</b>
+<br /><b>The Economist Group</b>
+<br /><b>Starcount</b>
+<br /><b>NCC Group</b>
+<br /><b>Quantemol Ltd</b>
+<br /><b>Blue Skies Space Ltd</b>
+<br /><b>Privitar</b>
+</td>
+
+<td class="centred" style="background: #cfc;">
+<u>Puclic-private Partnerships</u>
+<br /><b>CERN Openlab</b>
+</td>
+</tr>
+
+<tr>
+<td class="centred" style="background: #99f;">
+<u>Non-academic Research Organisations</u>
+<br /><b>Hartree Centre</b>
+<br /><b>RAL Particle Physics Division</b>
+<br /><b>RAL Scientific Computing Division</b>
+<br /><b>DiRAC HPC Facility</b>
+</td>
+</tr>
+
+</table>
+-->
+<img src="partner_organisations.png" class="scaled">
+
+<figcaption class="centred">
+An overview of the organisations currently engaged with the CDT providing both training and secondment opportunities.
+</figcaption>
+</figure>
+
+
+</div>
+
+</div>
+
+</div> </div>
+
+<!--#include virtual="/footer.php" -->
+
+</div>
+
+</body>
+
+</html>
