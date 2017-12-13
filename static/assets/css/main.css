@@ -1,5 +1,5 @@
 /* Header */
-#head { background:#181015 url( ../images/bg_header.jpg) no-repeat; background-size: cover; min-height:520px; text-align: center; padding-top:240px; color:white; font-family:"Open sans", Helvetica, Arial; font-weight:300; }
+#head { background:#181015 url( ../images/bg_header.jpg) no-repeat; background-size: cover; min-height:520px; text-align: center; color:white; font-family:"Open sans", Helvetica, Arial; font-weight:300; display: flex; justify-content: center; align-items: center}
 #head.secondary { height:100px; min-height: 100px; padding-top:0px; }
 	#head .lead { font-family:"Open sans", Helvetica, Arial; font-size:44px; margin-bottom:6px; color:white; line-height:1.15em; } 
 	#head .tagline { color:rgba(255,255,255,0.75); margin-bottom:25px; }
@@ -11,9 +11,14 @@
 		#head .btn-default:active, 
 		#head .btn-default.active { color:#fff; -webkit-box-shadow:inset 0px 0px 0px 3px #fff; -moz-box-shadow:inset 0px 0px 0px 3px #fff; box-shadow:inset 0px 0px 0px 3px #fff; background: transparent; }
 
+#logo-front{
+    width: 35vw;
+}
+
 @media (max-width: 767px) {
-	#head { min-height:420px; padding-top:160px; }
+	#head { min-height:420px;}
 	#head .lead { font-size: 34px; }
+    #logo-front {width: 50vw}
 
 }
 
@@ -32,7 +37,7 @@
 
 
 /* Highlights (in jumbotron in most cases) */
-.highlight { margin-top:40px;}
+.highlight { margin-top:40px}
 	.h-caption { text-align: center; display: flex; justify-content: center; align-items: baseline}
 	.h-caption i { display:block; font-size: 54px; color:#382526; margin-bottom:36px; }
 	.h-caption h4 { color:#382526; font-size: 16px; font-weight: bold; margin-bottom:10px; display: inline-flex; flex-direction: column; justify-content: baseline; align-items: center;}
@@ -44,7 +49,7 @@ h1, h2, h3, h4, h5, h6 { font-family:"Open sans", Helvetica, Arial; }
 h1, .h1, h2, .h2, h3, .h3 { margin-top:30px; } 
 blockquote { font-style: italic; font-family: Georgia; color:#999; margin:30px 0 30px; }
 label { color: #777; }
-.thin { font-weight:300; }
+.thin { font-weight:300; margin-bottom: 20px;}
 .page-title { margin-top:20px; font-weight:300; }
 .text-muted { color:#888; }
 .breadcrumb { background:none; padding:0; margin:30px 0 0px 0; }
@@ -96,4 +101,10 @@ img.pull-left { margin-right: 10px; }
 
 .preview-glyph{
     margin-bottom: 36px;
+}
+
+.number-counter{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight: bold;
 }
