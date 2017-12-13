@@ -3,7 +3,6 @@ CDT SITEMAP
 
 - Home
 - News
-- Partners
 - Programme
     - PhD Studentship
     - Student Training
@@ -12,3 +11,4 @@ CDT SITEMAP
     - Profiles
     - Projects
 - People
+- Partners

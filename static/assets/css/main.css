@@ -14,7 +14,16 @@
 @media (max-width: 767px) {
 	#head { min-height:420px; padding-top:160px; }
 	#head .lead { font-size: 34px; }
+
 }
+
+/* Change from click to hover on navbar submenu.*/
+/*@media (min-width: 767px) {*/
+    /*ul.nav li.dropdown:hover > ul.dropdown-menu {*/
+        /*display: block;*/
+    /*}*/
+/*}
+/*@TODO: Fix toggle on nav submenu.*/
 
 
 /* Autohide navbar */
@@ -23,10 +32,10 @@
 
 
 /* Highlights (in jumbotron in most cases) */
-.highlight { margin-top:40px; }
-	.h-caption { text-align: center; } 
+.highlight { margin-top:40px;}
+	.h-caption { text-align: center; display: flex; justify-content: center; align-items: baseline}
 	.h-caption i { display:block; font-size: 54px; color:#382526; margin-bottom:36px; }
-	.h-caption h4 { color:#382526; font-size: 16px; font-weight: bold; margin-bottom:20px; }
+	.h-caption h4 { color:#382526; font-size: 16px; font-weight: bold; margin-bottom:10px; display: inline-flex; flex-direction: column; justify-content: baseline; align-items: center;}
 	.h-body { }
 
 
@@ -81,3 +90,10 @@ img.pull-left { margin-right: 10px; }
 	.widget-simplenav { margin-left:-5px; }		
 	.widget-simplenav a{ margin:0 5px; }
 
+.nav-smart {
+    background: rgba(0,0,0,1);
+}
+
+.preview-glyph{
+    margin-bottom: 36px;
+}
