@@ -1,5 +1,5 @@
 /* Header */
-#head { background:#181015 url( ../images/bg_header.jpg) no-repeat; background-size: cover; min-height:520px; text-align: center; color:white; font-family:"Open sans", Helvetica, Arial; font-weight:300; display: flex; justify-content: center; align-items: center}
+#head { background:#181015 url( ../images/blues.jpg) no-repeat; background-size: cover; min-height:520px; text-align: center; color:white; font-family:"Open sans", Helvetica, Arial; font-weight:300; display: flex; justify-content: center; align-items: center}
 #head.secondary { height:100px; min-height: 100px; padding-top:0px; }
 	#head .lead { font-family:"Open sans", Helvetica, Arial; font-size:44px; margin-bottom:6px; color:white; line-height:1.15em; } 
 	#head .tagline { color:rgba(255,255,255,0.75); margin-bottom:25px; }
@@ -12,7 +12,7 @@
 		#head .btn-default.active { color:#fff; -webkit-box-shadow:inset 0px 0px 0px 3px #fff; -moz-box-shadow:inset 0px 0px 0px 3px #fff; box-shadow:inset 0px 0px 0px 3px #fff; background: transparent; }
 
 #logo-front{
-    width: 35vw;
+    width: 30vw;
 }
 
 @media (max-width: 767px) {
@@ -96,7 +96,7 @@ img.pull-left { margin-right: 10px; }
 	.widget-simplenav a{ margin:0 5px; }
 
 .nav-smart {
-    background: rgba(0,0,0,1);
+    background: #232323;
 }
 
 .preview-glyph{
@@ -107,4 +107,13 @@ img.pull-left { margin-right: 10px; }
     margin-top: 10px;
     margin-bottom: 10px;
     font-weight: bold;
+}
+
+.btn-more{
+   background-image: linear-gradient(to bottom, #183C5F 0%, #06254A 100%);
+
+}
+
+#btn-text{
+    margin-bottom: 0px;
 }
