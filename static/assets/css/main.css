@@ -121,3 +121,8 @@ img.pull-left { margin-right: 10px; }
 .footer-logo{
     margin-bottom: 25px;
 }
+
+#department-list{
+    padding-left: 15px;
+    list-style-type: square;
+}
