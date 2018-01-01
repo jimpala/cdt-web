@@ -115,7 +115,7 @@ img.pull-left { margin-right: 10px; }
 }
 
 #btn-text{
-    margin-bottom: 0px;
+    margin-bottom: 0;
 }
 
 .footer-logo{
@@ -125,4 +125,20 @@ img.pull-left { margin-right: 10px; }
 #department-list{
     padding-left: 15px;
     list-style-type: square;
+}
+
+.news-headline{
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.news-subhead{
+    margin: 10px 0 20px 0;
+
+}
+
+.news-link{
+    font-weight: bold;
+    text-decoration: underline;
+    color: #333;
 }
