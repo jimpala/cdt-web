@@ -142,3 +142,20 @@ img.pull-left { margin-right: 10px; }
     text-decoration: underline;
     color: #333;
 }
+
+.affix{
+    top: 35px;
+    min-width: 20%; /* Fixes affix width-change problem */
+}
+
+.affix-bottom{
+    position: absolute;
+}
+
+.docpage-title{
+    margin: 30px 0 10px 0;
+}
+
+.docpage-content ul {
+    margin-top: 15px;
+}
