@@ -1,14 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <title>Student Profiles</title>
+
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
-    <meta name="author" content="Sergey Pozhilov (GetTemplate.com)">
+    <meta name="author" content="">
 
-    <title>Progressus - Free business bootstrap template by GetTemplate</title>
-
-    <link rel="shortcut icon" href="assets/images/gt_favicon.png">
 
     <link rel="stylesheet" media="screen" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,700">
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -17,14 +16,9 @@
     <!-- Custom styles for our template -->
     <link rel="stylesheet" href="assets/css/bootstrap-theme.css" media="screen">
     <link rel="stylesheet" href="assets/css/main.css">
+    <link rel="stylesheet" href="assets/css/course-table.css"/>
 
-    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-    <script src="assets/js/html5shiv.js"></script>
-    <script src="assets/js/respond.min.js"></script>
-    <![endif]-->
 </head>
-
 <body class="home">
 <!-- Fixed navbar -->
 <div class="navbar navbar-inverse nav-smart">
@@ -38,8 +32,8 @@
         </div>
         <div class="navbar-collapse collapse"> <!--@TODO: Fix toggle on nav submenu. -->
             <ul class="nav navbar-nav pull-right">
-                <li class="active"><a href="#">Home</a></li>
-                <li><a href="news.html">News</a></li>
+                <li><a href="#">Home</a></li>
+                <li class="active"><a href="news.html">News</a></li>
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Programme<b class="caret"></b></a>
                     <ul class="dropdown-menu">
@@ -63,129 +57,30 @@
 </div>
 <!-- /.navbar -->
 
-<!-- Header -->
-<header id="head">
-    <div class="container">
+
+<!-- Page Content -->
+<div class="container page-content">
+
+    <!-- Page Heading -->
+    <div class="row title-row">
+        <h1 class="page-header">Student Profiles</h1>
+    </div>
+    <!-- /.row -->
+</div>
+
+<div class="accent-section">
+    <!-- Intro -->
+    <div class="container text-center">
+        <br> <br>
+        <h2 class="thin">First Year Students</h2>
         <div class="row">
-            <img id="logo-front" src="assets/images/logo_test.png" alt="Logo">
+            <div class="col-xs-12 col-md-6 col-lg-4">
+                <div class="profile-box"></div>
+            </div>
         </div>
     </div>
-</header>
-<!-- /Header -->
-
-<!-- Intro -->
-<div class="container text-center">
-    <br> <br>
-    <h2 class="thin">UCL’s Centre for Doctoral Training in Data-Intensive Science</h2>
-    <p class="text-muted">
-        UCL was selected, after a highly competitive process, to host STFC's first Centre for Doctoral Training (CDT) in
-        data intensive science (DIS).<br>
-    </p>
-    <p class="text-muted">
-        DIS encompasses a wide range of areas in the field of 'big-data' including the collection, storage and analysis
-        of large datasets, as well as
-        the use of complex models, algorithms and machine learning techniques to interpret the data.
-    </p>
-    <p class="text-muted">
-        The Centre will primarily carry out research in STFC's flagship Data Intensive Science projects, in High Energy
-        Physics and Astronomy, which
-        have been at the forefront of DIS research for several decades and provide the ideal training ground for DIS.
-    </p>
+    <!-- /Intro-->
 </div>
-<!-- /Intro-->
-
-<!-- Highlights - jumbotron -->
-<div class="jumbotron top-space">
-    <div class="container">
-
-        <h3 class="text-center thin">Participating UCL Departments</h3>
-
-        <div class="row">
-            <div class="col-md-3 col-sm-6 highlight">
-                <div class="h-caption"><h4><img src="assets/images/004-share.png" class="preview-glyph">Particle Physics
-                </h4></div>
-                <div class="h-body text-center">
-                    <h1 class="text-center number-counter">20</h1>
-                    <h4>CDT Staff Members</h4>
-                </div>
-            </div>
-            <div class="col-md-3 col-sm-6 highlight">
-                <div class="h-caption"><h4><img src="assets/images/005-solar-system.png" class="preview-glyph">Astrophysics
-                </h4></div>
-                <div class="h-body text-center">
-                    <h1 class="text-center number-counter">20</h1>
-                    <h4 class="text-center">CDT Staff Members</h4>
-                </div>
-            </div>
-            <div class="col-md-3 col-sm-6 highlight">
-                <div class="h-caption"><h4><img src="assets/images/007-analytics.png" class="preview-glyph">Statistical
-                    Science</h4></div>
-                <div class="h-body text-center">
-                    <h1 class="text-center number-counter">8</h1>
-                    <h4 class="text-center">CDT Staff Members</h4>
-                </div>
-            </div>
-            <div class="col-md-3 col-sm-6 highlight">
-                <div class="h-caption"><h4><img src="assets/images/003-monitor.png" class="preview-glyph">Computer
-                    Science</h4></div>
-                <div class="h-body text-center">
-                    <h1 class="text-center number-counter">9</h1>
-                    <h4 class="text-center">CDT Staff Members</h4>
-                </div>
-            </div>
-        </div> <!-- /row  -->
-        <div class="row">
-            <div class="col-md-3 col-sm-6 highlight">
-                <div class="h-caption"><h4><img src="assets/images/006-tornado.png" class="preview-glyph">Space &
-                    Climate Science</h4></div>
-                <div class="h-body text-center">
-                    <h1 class="text-center number-counter">20</h1>
-                    <h4 class="text-center">CDT Staff Members</h4>
-                </div>
-            </div>
-            <div class="col-md-3 col-sm-6 highlight">
-                <!--@TODO: Fix breakpoint for subject name text (use container?).-->
-                <div class="h-caption"><h4><img src="assets/images/008-atom.png" class="preview-glyph">Atom & Molecular
-                    Physics</h4></div>
-                <div class="h-body text-center">
-                    <h1 class="text-center number-counter">2</h1>
-                    <h4 class="text-center">CDT Staff Members</h4>
-                </div>
-            </div>
-            <div class="col-md-3 col-sm-6 highlight">
-                <div class="h-caption"><h4><img src="assets/images/002-flash.png" class="preview-glyph">Electrical
-                    Engineering</h4></div>
-                <div class="h-body text-center">
-                    <h1 class="text-center number-counter">3</h1>
-                    <h4 class="text-center">CDT Staff Members</h4>
-                </div>
-            </div>
-            <div class="col-md-3 col-sm-6 highlight">
-                <div class="h-caption"><h4><img src="assets/images/001-calculator.png" class="preview-glyph">Mathematics
-                </h4></div>
-                <div class="h-body text-center">
-                    <h1 class="text-center number-counter">5</h1>
-                    <h4 class="text-center">CDT Staff Members</h4>
-                </div>
-            </div>
-        </div> <!-- /row  -->
-
-    </div>
-</div>
-<!-- /Highlights -->
-
-<!-- container -->
-<div class="container">
-
-
-    <div class="jumbotron top-space">
-        <h4>The centre launched in September 2017 and is now hiring for its second cohort, who will start their PhDs in
-            September 2018.</h4>
-        <p class="text-left" id="btn-text"><a class="btn btn-primary btn-large btn-more">Learn more »</a></p>
-    </div>
-
-</div>    <!-- /container -->
-
 
 <footer id="footer" class="top-space">
 
@@ -196,7 +91,6 @@
                 <div class="col-md-3 widget">
                     <h3 class="widget-title">Organisations</h3>
                     <img src="assets/images/ucl.png" alt="" class="footer-logo">
-                    <!--@TODO: Fix stacking of these images (row divs?).-->
                     <img src="assets/images/stfc.png" alt="" class="footer-logo"> <!--@TODO: Make STFC logo white.-->
                 </div>
 
@@ -265,7 +159,6 @@
     </div>
 
 </footer>
-
 
 <!-- JavaScript libs are placed at the end of the document so the pages load faster -->
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>

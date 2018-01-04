@@ -174,3 +174,12 @@ img.pull-left { margin-right: 10px; }
 .comparison-gloss{
     margin-bottom: -15px;
 }
+
+.accent-section{
+    width: 100%;
+    background-color: #F7F5F4;
+}
+
+.profile-box{
+    display: flex;
+}
