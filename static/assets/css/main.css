@@ -182,4 +182,16 @@ img.pull-left { margin-right: 10px; }
 
 .profile-box{
     display: flex;
+	flex-direction: column;
+	justify-content: baseline;
+	align-items: center;
+	margin-top: 40px;
+}
+
+.circle-image{
+	border-radius: 50%;
+}
+
+#student-title{
+	margin-bottom: 30px;
 }
