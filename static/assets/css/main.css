@@ -159,3 +159,18 @@ img.pull-left { margin-right: 10px; }
 .docpage-content ul {
     margin-top: 15px;
 }
+
+.title-row{
+	display: flex;
+    min-height: 100px;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.content-row{
+    background-color: #F7F5F4;
+}
+
+.comparison-gloss{
+    margin-bottom: -15px;
+}
