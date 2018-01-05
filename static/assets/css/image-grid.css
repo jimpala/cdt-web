@@ -42,6 +42,8 @@
 /* If have the overlay layer */
 .rig-overlay {
     position: absolute;
+    display: flex;
+    justify-content: center;
     align-items: center;
     top: 0;
     left: 0;
@@ -60,15 +62,15 @@
 
 /* If have captions */
 .rig-text {
-    display:inline-flex;
-    padding:0 30px;
+    display:inline-block;
+    padding:0 30px 0 30px;
     box-sizing:border-box;
     position:absolute;
     left:0;
+    right:0;
     width:100%;
-    text-align:center;
     text-transform:capitalize;
-    font-size:18px;
+    font-size: 2rem;
     font-weight:bold;
     font-family: 'Oswald', sans-serif;
     font-weight:normal!important;
@@ -76,8 +78,9 @@
     color:white;
     opacity:0;
     filter:alpha(opacity=0);/*For older IE*/
-    transform:translateY(-20px);
     transition:all .3s;
+    text-align: center;
+    margin-bottom: 0;
 }
 #rig li:hover .rig-text {
     transform:translateY(0px);
@@ -86,19 +89,25 @@
 
 @media (max-width: 9000px) {
     #rig li {
-        width:33.33%;
+        width:20%;
     }
 }
 
-@media (max-width: 700px) {
+@media (max-width: 991px) {
     #rig li {
         width:33.33%;
+    }
+    .rig-text{
+        font-size: 1.5rem;
     }
 }
 
 @media (max-width: 550px) {
-    #rig li {
-        width:50%;
+    /*#rig li {*/
+        /*width:50%;*/
+    /*}*/
+    .rig-text{
+        font-size: 1.5rem;
     }
 }
 
