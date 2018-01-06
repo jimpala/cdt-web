@@ -195,3 +195,35 @@ img.pull-left { margin-right: 10px; }
 #student-title{
 	margin-bottom: 30px;
 }
+
+.partner-row{
+	align-items: center;
+	margin: 0px 5%;
+}
+
+.partner-logo{
+	width: 98px;
+	height: 68px;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	display: inline-block;
+	background-image: url("../images/sf0.png");
+	margin-top: 30px;
+}
+
+.partners-title{
+	margin-bottom: 0;
+}
+
+.final-container{
+	padding-bottom: 50px;
+}
+
+.container-space{
+	padding-bottom: 30px;
+}
+
+.square-bullet-list{
+	list-style-type: square;
+}
