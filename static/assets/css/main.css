@@ -227,3 +227,7 @@ img.pull-left { margin-right: 10px; }
 .square-bullet-list{
 	list-style-type: square;
 }
+
+.sidebar-text{
+	color: #888 !important;
+}
