@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Student Profiles</title>
+    <title>Management Team</title>
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -16,6 +16,7 @@
     <!-- Custom styles for our template -->
     <link rel="stylesheet" href="assets/css/bootstrap-theme.css" media="screen">
     <link rel="stylesheet" href="assets/css/main.css">
+    <link rel="stylesheet" href="assets/css/course-table.css"/>
 
 </head>
 <body class="home">
@@ -61,74 +62,145 @@
 <div class="container page-content">
 
     <!-- Page Heading -->
-    <div class="row title-row container-space">
-        <div class="col-lg-12">
-            <h1 class="page-header">Student Profiles</h1>
-        </div>
+    <div class="row title-row">
+        <h1 class="page-header" id="student-title">Management Team</h1>
     </div>
     <!-- /.row -->
-
-    <!-- Project One -->
-    <div class="row">
-        <div class="col-md-3 profile-col">
-            <a href="#">
-                <img src="assets/images/blank-profile-140.png" alt="Profile image"
-                     class="img-responsive circle-image">
-            </a>
-        </div>
-        <div class="col-md-9">
-            <h3 class="news-headline">Joe Bloggs</h3>
-            <h4 class="news-subhead">Supervisor: John Smith</h4>
-            <p>I graduated with an MSci Astrophysics from Royal Holloway, University of London. Whist at Royal Holloway
-                I took part in a summer research project at the John Adams Institute for Accelerator Science, which
-                exposed me to the world of scientific computing for research. As it has always been my ambition to
-                embark into a research career, I chose to develop my scientific computing skills further by completing a
-                post-graduate masters in Computer Science at UCL.<br><br>My major project for the MSc allowed me to
-                combine my
-                two passions of Astrophysics and Machine Learning by applying Deep Learning methods to the inverse
-                problem of radio interferometric image reconstruction.<br><br>I believe the interdisciplinary nature of
-                the CDT provides a unique opportunity to develop as a professional researcher in the fields of Computer
-                Science,
-                Machine Learning and Physics that will be able to solve large-scale problems in both academia and
-                industry.</p>
-        </div>
-    </div>
-    <!-- /.row -->
-
-    <hr>
-
-    <!-- Project Two -->
-    <div class="row">
-        <div class="col-md-3 profile-col">
-            <a href="#">
-                <img src="assets/images/blank-profile-140.png" alt="Profile image"
-                      class="img-responsive circle-image">
-            </a>
-        </div>
-        <div class="col-md-9">
-            <h3 class="news-headline">Joe Bloggs</h3>
-            <h4 class="news-subhead">Supervisor: John Smith</h4>
-            <p>I graduated with an MSci Astrophysics from Royal Holloway, University of London. Whist at Royal Holloway
-                I took part in a summer research project at the John Adams Institute for Accelerator Science, which
-                exposed me to the world of scientific computing for research. As it has always been my ambition to
-                embark into a research career, I chose to develop my scientific computing skills further by completing a
-                post-graduate masters in Computer Science at UCL.<br><br>My major project for the MSc allowed me to
-                combine my
-                two passions of Astrophysics and Machine Learning by applying Deep Learning methods to the inverse
-                problem of radio interferometric image reconstruction.<br><br>I believe the interdisciplinary nature of
-                the CDT provides a unique opportunity to develop as a professional researcher in the fields of Computer
-                Science,
-                Machine Learning and Physics that will be able to solve large-scale problems in both academia and
-                industry.</p>
-        </div>
-    </div>
-    <!-- /.row -->
-
-    <hr>
 </div>
-<!-- /.container -->
 
-<footer id="footer" class="top-space">
+<div class="accent-section">
+    <!-- Intro -->
+    <div class="container text-center container-space">
+        <br> <br>
+        <h2 class="thin">Centre Co-Directors</h2>
+        <div class="row team-profiles">
+            <div class="col-xs-12 col-md-6">
+                <div class="profile-box"> <!--@TODO Create profile box and simple style (see notes).-->
+                    <img src="assets/images/blank-profile.png" alt="Profile image" width="140" height="140"
+                         class="circle-image">
+                    <div class="profile-text">
+                        <h3>Nikos Konstantinidis</h3>
+                        <h5>n.konstantinidis@ucl.ac.uk</h5>
+                        <h6>Room D16<br>Department of Physics and Astronomy<br>Gower Street</h6>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-12 col-md-6">
+                <div class="profile-box"> <!--@TODO Create profile box and simple style (see notes).-->
+                    <img src="assets/images/blank-profile.png" alt="Profile image" width="140" height="140"
+                         class="circle-image">
+                    <div class="profile-text">
+                        <h3>Ofer Lahav</h3>
+                        <h5>o.lahav@ucl.ac.uk</h5>
+                        <h6>Room 212, Second Floor<br>Pearson Building<br>Gower Street</h6>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- /Intro-->
+</div>
+<div class="container text-center container-space">
+    <br> <br>
+    <h2 class="thin">Directors of Research</h2>
+    <div class="row team-profiles">
+        <div class="col-xs-12 col-md-6">
+            <div class="profile-box"> <!--@TODO Create profile box and simple style (see notes).-->
+                <img src="assets/images/blank-profile.png" alt="Profile image" width="140" height="140"
+                     class="circle-image">
+                <div class="profile-text">
+                    <h3>Jason McEwen</h3>
+                    <h5>jason.mcewen@ucl.ac.uk</h5>
+                    <h6>Room 122<br>Mullard Space Science Laboratory<br>Holmbury Hill Road</h6>
+                </div>
+            </div>
+        </div>
+        <div class="col-xs-12 col-md-6">
+            <div class="profile-box"> <!--@TODO Create profile box and simple style (see notes).-->
+                <img src="assets/images/blank-profile.png" alt="Profile image" width="140" height="140"
+                     class="circle-image">
+                <div class="profile-text">
+                    <h3>Tim Scanlon</h3>
+                    <h5>timothy.scanlon@ucl.ac.uk</h5>
+                    <h6>Room D18<br>Department of Physics and Astronomy<br>Gower Street</h6>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- /Intro-->
+<div class="accent-section">
+    <!-- Intro -->
+    <div class="container text-center container-space">
+        <br> <br>
+        <h2 class="thin">Partners Liaison & Placements Coordinator</h2>
+        <div class="row team-profiles">
+            <div class="col-xs-12">
+                <div class="profile-box"> <!--@TODO Create profile box and simple style (see notes).-->
+                    <img src="assets/images/blank-profile.png" alt="Profile image" width="140" height="140"
+                         class="circle-image">
+                    <div class="profile-text">
+                        <h3>Jeremy Yates</h3>
+                        <h5>j.a.yates@ucl.ac.uk</h5>
+                        <h6>Second Floor<br>Pearson Building<br>Gower Street</h6>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- /Intro-->
+</div>
+<div class="container text-center container-space">
+    <br> <br>
+    <h2 class="thin">Directors of Training</h2>
+    <div class="row team-profiles">
+        <div class="col-xs-12 col-md-6">
+            <div class="profile-box"> <!--@TODO Create profile box and simple style (see notes).-->
+                <img src="assets/images/blank-profile.png" alt="Profile image" width="140" height="140"
+                     class="circle-image">
+                <div class="profile-text">
+                    <h3>Jonathan Tennyson</h3>
+                    <h5>j.tennyson@ucl.ac.uk</h5>
+                    <h6>Room A4<br>Department of Physics and Astronomy<br>Gower Street</h6>
+                </div>
+            </div>
+        </div>
+        <div class="col-xs-12 col-md-6">
+            <div class="profile-box"> <!--@TODO Create profile box and simple style (see notes).-->
+                <img src="assets/images/blank-profile.png" alt="Profile image" width="140" height="140"
+                     class="circle-image">
+                <div class="profile-text">
+                    <h3>Clare Gryce</h3>
+                    <h5>c.gryce@ucl.ac.uk</h5>
+                    <h6>The Podium<br>1 Eversholt Street</h6>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="accent-section">
+    <!-- Intro -->
+    <div class="container text-center final-container">
+        <br> <br>
+        <h2 class="thin">Admissions & Graduate Tutor</h2>
+        <div class="row team-profiles">
+            <div class="col-xs-12">
+                <div class="profile-box"> <!--@TODO Create profile box and simple style (see notes).-->
+                    <img src="assets/images/blank-profile.png" alt="Profile image" width="140" height="140"
+                         class="circle-image">
+                    <div class="profile-text">
+                        <h3>Serena Viti</h3>
+                        <h5>serena.viti@ucl.ac.uk</h5>
+                        <h6>Room 221, Second Floor<br>Pearson Building<br>Gower Street</h6>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- /Intro-->
+</div>
+
+<footer id="footer">
 
     <div class="footer1">
         <div class="container">

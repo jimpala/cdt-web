@@ -258,3 +258,12 @@ img.pull-left { margin-right: 10px; }
 .footer-pg{
 	color: #ccc;
 }
+
+.team-profiles{
+	margin: 30px;
+}
+
+.profile-col{
+	display: flex;
+	justify-content: center;
+}
